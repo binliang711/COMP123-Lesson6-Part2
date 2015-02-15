@@ -1,0 +1,11 @@
+c:\users\300788322\documents\visual studio 2013\Projects\COMP123-Lesson6-Part2\COMP123-Lesson6-Part2\bin\Debug\COMP123-Lesson6-Part2.exe.config
+c:\users\300788322\documents\visual studio 2013\Projects\COMP123-Lesson6-Part2\COMP123-Lesson6-Part2\obj\Debug\COMP123-Lesson6-Part2.csprojResolveAssemblyReference.cache
+C:\Users\bingl_000\Desktop\COMP123-Lesson6-Part2\COMP123-Lesson6-Part2\bin\Debug\COMP123-Lesson6-Part2.exe.config
+C:\Users\bingl_000\Desktop\COMP123-Lesson6-Part2\COMP123-Lesson6-Part2\obj\Debug\COMP123-Lesson6-Part2.csprojResolveAssemblyReference.cache
+C:\Users\bingl_000\Desktop\COMP123-Lesson6-Part2\COMP123-Lesson6-Part2\bin\Debug\COMP123-Lesson6-Part2.exe
+C:\Users\bingl_000\Desktop\COMP123-Lesson6-Part2\COMP123-Lesson6-Part2\bin\Debug\COMP123-Lesson6-Part2.pdb
+C:\Users\bingl_000\Desktop\COMP123-Lesson6-Part2\COMP123-Lesson6-Part2\obj\Debug\COMP123-Lesson6-Part2.exe
+C:\Users\bingl_000\Desktop\COMP123-Lesson6-Part2\COMP123-Lesson6-Part2\obj\Debug\COMP123-Lesson6-Part2.pdb
+C:\Users\bingl_000\Source\Repos\COMP123-Lesson6-Part2\COMP123-Lesson6-Part2\COMP123-Lesson6-Part2\bin\Debug\COMP123-Lesson6-Part2.exe.config
+C:\Users\bingl_000\Source\Repos\COMP123-Lesson6-Part2\COMP123-Lesson6-Part2\COMP123-Lesson6-Part2\obj\Debug\COMP123-Lesson6-Part2.exe
+C:\Users\bingl_000\Source\Repos\COMP123-Lesson6-Part2\COMP123-Lesson6-Part2\COMP123-Lesson6-Part2\obj\Debug\COMP123-Lesson6-Part2.pdb
