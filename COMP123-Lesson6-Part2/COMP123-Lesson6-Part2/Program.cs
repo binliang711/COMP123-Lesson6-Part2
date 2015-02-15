@@ -10,11 +10,6 @@ namespace COMP123_Lesson6_Part2
     {
         static void Main(string[] args)
         {
-            
-
-            
-            
-            
            Cat myCat = new Cat("Tiger");
            Console.WriteLine(myCat.Speak());
            myCat.Runs();

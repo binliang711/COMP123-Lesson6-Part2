@@ -8,12 +8,15 @@ namespace COMP123_Lesson6_Part2
 {
     class Dog :  Animal
     {
+
+        // constructors
         public  Dog(string name)
             : base(name)
         {
 
         }
 
+        // public methods +++++++++++++++++++++++++++++++++
         public override string Speak()
         {
             return this.Name + "says woof";

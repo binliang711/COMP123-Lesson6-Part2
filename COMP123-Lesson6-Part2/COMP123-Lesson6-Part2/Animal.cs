@@ -19,8 +19,6 @@ namespace COMP123_Lesson6_Part2
               return this._name; //Read-only
            }
         }
-
-
        public Animal(string name)
        {
           this._name = name;

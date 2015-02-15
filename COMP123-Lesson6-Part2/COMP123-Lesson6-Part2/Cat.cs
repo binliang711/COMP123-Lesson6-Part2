@@ -21,6 +21,7 @@ namespace COMP123_Lesson6_Part2
             return this.Name + " says meow";
         }
 
+        //apply override method
         public override void Eats()
         {
             Console.WriteLine("{0} can't eat, because she has a stomach problem", this.Name);
